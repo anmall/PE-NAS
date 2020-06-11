@@ -11,3 +11,4 @@ To run it, please install
 python run_re_nips.py --n_workers 16 --num_process 1 --benchmark nasbench101 --n_iters 5000 --predict_mutate true --predict_kill true
 ```
 
+Some of the code is adopted from [Banans](https://github.com/naszilla/bananas)
